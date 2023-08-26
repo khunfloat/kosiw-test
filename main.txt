@@ -3,3 +3,4 @@ add faetureA by charat
 float -> fix typo
 add featureB by charat
 float -> fix bug while dad create featureB
+float -> fix typo
